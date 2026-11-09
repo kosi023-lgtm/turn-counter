@@ -1,0 +1,5 @@
+{
+  "name": "turn-counter",
+  "owner": { "name": "kosi023-lgtm" },
+  "plugins": [{ "name": "turn-counter", "source": "./" }]
+}

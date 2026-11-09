@@ -1,0 +1,6 @@
+{
+  "name": "turn-counter",
+  "version": "0.1.0",
+  "description": "Counts the turns of this session and shows the count in the status line.",
+  "types": "./types/index.d.ts"
+}
